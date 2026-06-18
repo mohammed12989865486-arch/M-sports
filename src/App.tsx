@@ -1082,7 +1082,6 @@ export default function App() {
                 مرحباً بك في منصة البث المباشر. يرجى إدخال رمز الدخول السري للاستمرار.
               </span>
 
-              {/* Helpful minimal guide for developer: "If you don't have a physical keyboard, double click the logo/brand" */}
               <button 
                 onClick={() => setShowSecretModal(true)}
                 className="mt-8 text-[11px] font-bold text-purple-400 hover:text-purple-300 transition underline tracking-wide"
