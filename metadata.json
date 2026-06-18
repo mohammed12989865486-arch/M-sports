@@ -1,0 +1,6 @@
+{
+  "name": "MHD SPORTS",
+  "description": "منصة البث المباشر لقنوات بي إن سبورتس والقنوات العالمية الرياضية بتصميم عصري وأنيق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
